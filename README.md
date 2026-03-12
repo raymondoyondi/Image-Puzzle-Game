@@ -36,7 +36,7 @@ A lightweight, interactive web-based puzzle game where users reassemble scramble
 └── README.md
 ```
 
-# ⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 No complex installation is required. This is a frontend-only project.
 
 1. **Clone the repository:**
@@ -49,7 +49,7 @@ No complex installation is required. This is a frontend-only project.
  
 3. **Launch:** Simply open index.html in your preferred web browser.
 
-# 🤝 Contributing
+## 🤝 Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
@@ -59,5 +59,5 @@ Contributions are what make the open-source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`).
 5. Open a Pull Request.
 
-# 📄 License
+## 📄 License
 Distributed under the MIT License. See the `LICENSE` file for more details.
