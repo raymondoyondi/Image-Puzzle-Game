@@ -47,9 +47,7 @@ No complex installation is required. This is a frontend-only project.
    ```bash
    cd Image-Puzzle-Game
  
-3. **Launch:**
-
-Simply open index.html in your preferred web browser.
+3. **Launch:** Simply open index.html in your preferred web browser.
 
 # 🤝 Contributing
 
